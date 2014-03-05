@@ -17,3 +17,7 @@ While both can be rewritten to be passed with the initialization .
 Another version to come soon.
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/abdulhamid-alattar/callback-timer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
